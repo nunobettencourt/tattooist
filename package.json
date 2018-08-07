@@ -26,6 +26,5 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "plop": "^2.0.0"
   }
 }
